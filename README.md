@@ -34,3 +34,7 @@
 - subject: str
 - mensaje: str
 - fecha_contacto: date
+
+## Modelo de funcionamiento de la pagina
+
+[Video ejemplo funcionamiento](https://drive.google.com/file/d/1AU4nIq1VWmx6dNy9gvWuUp33vhlsGk66/view?usp=sharing)
